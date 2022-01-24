@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\C#\\dotnet___poo\\dotnet___poo.csproj": {}
+  },
+  "projects": {
+    "C:\\C#\\dotnet___poo\\dotnet___poo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\C#\\dotnet___poo\\dotnet___poo.csproj",
+        "projectName": "dotnet___poo",
+        "projectPath": "C:\\C#\\dotnet___poo\\dotnet___poo.csproj",
+        "packagesPath": "C:\\Users\\Programador\\.nuget\\packages\\",
+        "outputPath": "C:\\C#\\dotnet___poo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Programador\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

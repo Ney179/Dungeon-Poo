@@ -1,0 +1,15 @@
+C:\C#\dotnet___poo\obj\Debug\net6.0\dotnet___poo.csproj.AssemblyReference.cache
+C:\C#\dotnet___poo\obj\Debug\net6.0\dotnet___poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\dotnet___poo\obj\Debug\net6.0\dotnet___poo.AssemblyInfoInputs.cache
+C:\C#\dotnet___poo\obj\Debug\net6.0\dotnet___poo.AssemblyInfo.cs
+C:\C#\dotnet___poo\obj\Debug\net6.0\dotnet___poo.csproj.CoreCompileInputs.cache
+C:\C#\dotnet___poo\bin\Debug\net6.0\dotnet___poo.exe
+C:\C#\dotnet___poo\bin\Debug\net6.0\dotnet___poo.deps.json
+C:\C#\dotnet___poo\bin\Debug\net6.0\dotnet___poo.runtimeconfig.json
+C:\C#\dotnet___poo\bin\Debug\net6.0\dotnet___poo.dll
+C:\C#\dotnet___poo\bin\Debug\net6.0\ref\dotnet___poo.dll
+C:\C#\dotnet___poo\bin\Debug\net6.0\dotnet___poo.pdb
+C:\C#\dotnet___poo\obj\Debug\net6.0\dotnet___poo.dll
+C:\C#\dotnet___poo\obj\Debug\net6.0\ref\dotnet___poo.dll
+C:\C#\dotnet___poo\obj\Debug\net6.0\dotnet___poo.pdb
+C:\C#\dotnet___poo\obj\Debug\net6.0\dotnet___poo.genruntimeconfig.cache
